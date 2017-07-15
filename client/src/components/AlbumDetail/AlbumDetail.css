@@ -1,0 +1,24 @@
+.album {
+  margin: 20px;
+  text-align: center;
+}
+
+.album__avatar {
+  border-radius: 50%;
+}
+
+.album__description {
+  color: red;
+  margin: 2% 20%;
+}
+
+.album__button {
+  background-color: #d0021b;
+  color: white;
+  padding: 10px 40px;
+  font-weight: bold;
+}
+
+.album__button:hover {
+  background-color: black;
+}

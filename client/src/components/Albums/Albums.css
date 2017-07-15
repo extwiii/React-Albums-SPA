@@ -1,0 +1,31 @@
+.album-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.album-item {
+  margin: 20px;
+  width: 16%;
+  text-align: center;
+}
+
+.album-item:hover {
+  background: linear-gradient(#9a0a0a, #1a1a1a);
+  color: #fff;
+  text-decoration: none;
+}
+
+.album-item__title {
+  margin: 10px;
+  text-align: center;
+}
+
+.album-item__avatar {
+  width: 160px;
+  border-radius: 50%;
+}
+
+.album-item__space {
+  margin-bottom: 7px;
+}
