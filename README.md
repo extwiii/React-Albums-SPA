@@ -33,9 +33,15 @@ git clone https://github.com/extwiii/React-Albums-SPA.git
 cd React-Albums-SPA
 
 # Install NPM dependencies for server and client
-npm install:all
+npm run install:all
 
-# Then start your app 
+# Build your app for production
+cd client && npm run build
+
+# Test your API
+npm run test
+
+# Start your app 
 npm run start
 
 ```
