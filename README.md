@@ -1,8 +1,6 @@
 # React-Albums-SPA
 React.js &amp; Node.js Fullstack Album SPA
 
-Live Demo : [Albums SPA](https://extwiii-albums.herokuapp.com/)
-
 Features
 --------
 - React.js 
